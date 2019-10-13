@@ -1,0 +1,15 @@
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama-3.AdamAsmaca.csprojAssemblyReference.cache
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.Form1.resources
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.Properties.Resources.resources
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama-3.AdamAsmaca.csproj.GenerateResource.cache
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama-3.AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\bin\Debug\Programlama-3HomeWork.exe.config
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\bin\Debug\Programlama-3HomeWork.exe
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\bin\Debug\Programlama-3HomeWork.pdb
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama-3HomeWork.exe
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama-3HomeWork.pdb
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.UserInterface.Words.WordsADD.resources
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.UserInterface.Words.WordsEDIT.resources
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.UserInterface.Words.Words.resources
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.UserInterface.Game.Game.resources
+C:\Users\HasanKorkmaz\source\repos\Programlama-3HomeWork\Programlama-3HomeWork\obj\Debug\Programlama_3HomeWork.UserInterface.Game.WordsLenght.resources
